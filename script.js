@@ -1,5 +1,5 @@
 function startTimer() {
-    const startDate = new Date("2024-09-22T15:11:00"); // Fecha de inicio: 20/09/2024
+    const startDate = new Date("2019-02-05T06:00:00"); // Fecha de inicio: 05/02/2019
     const daysElement = document.getElementById('days');
     const hoursElement = document.getElementById('hours');
     const minutesElement = document.getElementById('minutes');
